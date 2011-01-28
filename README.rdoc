@@ -1,0 +1,30 @@
+= Active Merchant Moneybookers
+
+This library adds {Moneybookers}[http://moneybookers.com] payment gateway support to {ActiveMerchant}[http://activemerchant.org].
+
+Gem is originally based on ActiveMerchant {patch}[https://github.com/Shopify/active_merchant/issues#issue/31] by Jan Riethmayer.
+
+== Installation
+
+=== From Ruby Gems
+
+Installation from RubyGems
+
+  > gem install activemerchant_moneybookers
+
+=== From Git
+
+You can check out the latest source from git:
+
+  > git pull git://github.com/laurynas/activemerchant_moneybookers.git
+
+== Testing
+
+You can run the tests from this gem with (inside the activemerchant_moneybookers directory):
+
+  > rake test
+
+== Maintainer
+
+This gem is maintained by {Laurynas Butkus}[mailto:laurynas.butkus@gmail.com]
+
