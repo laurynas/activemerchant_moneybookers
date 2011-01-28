@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Jan Riethmayer", "Laurynas Butkus"]
   s.email       = ["laurynas.butkus@gmail.com"]
-  s.homepage    = "http://rubygems.org/gems/activemerchant_moneybookers"
+  s.homepage    = "http://github.com/laurynas/activemerchant_moneybookers"
   s.summary     = %q{ActiveMerchant Moneybookers gateway}
   s.description = %q{Adds Moneybookers payment gateway support to ActiveMerchant library}
 
