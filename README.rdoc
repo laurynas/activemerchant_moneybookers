@@ -10,19 +10,19 @@ Gem is originally based on ActiveMerchant {patch}[https://github.com/Shopify/act
 
 Installation from RubyGems
 
-  > gem install activemerchant_moneybookers
+  gem install activemerchant_moneybookers
 
 === From Git
 
 You can check out the latest source from git:
 
-  > git pull git://github.com/laurynas/activemerchant_moneybookers.git
+  git clone git://github.com/laurynas/activemerchant_moneybookers.git
 
 == Testing
 
 You can run the tests from this gem with (inside the activemerchant_moneybookers directory):
 
-  > rake test
+  rake test
 
 == Maintainer
 
